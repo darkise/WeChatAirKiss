@@ -1,6 +1,8 @@
 # WeChat AirKiss
 AirKiss终端协议实现
 
+此实现已经考虑了多路由器多手机环境问题
+
 调用过程
 1 airkiss_init；
 2 开始抓包，获取802.11数据长度以及bssid和source address；
