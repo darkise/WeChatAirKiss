@@ -13,4 +13,4 @@ AirKiss终端协议实现
 7 切换WiFi通道，并airkiss_reset重设状态机，跳转到2；
 
 注：
-上面提到的超时airkiss_input没有实现，需要自己实现
+上面提到的超时airkiss_input没有实现，需要自己实现.
